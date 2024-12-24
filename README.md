@@ -45,16 +45,14 @@ Please refer to [Bi-directional DALL-E](https://github.com/wcshin-git/Bidirectio
 ## Citation
 
 ```
-@INPROCEEDINGS{10096052,
+@inproceedings{shin2023exploration,
+  title={Exploration into translation-equivariant image quantization},
   author={Shin, Woncheol and Lee, Gyubok and Lee, Jiyoung and Lyou, Eunyi and Lee, Joonseok and Choi, Edward},
-  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Exploration Into Translation-Equivariant Image Quantization}, 
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
   year={2023},
-  volume={},
-  number={},
-  pages={1-5},
-  keywords={Training;Vector quantization;Focusing;Aerospace electronics;Acoustics;Task analysis;Speech processing;Vector Quantization;Translation Equivariance;Aliasing;Text-Image Generation;Sample Efficiency},
-  doi={10.1109/ICASSP49357.2023.10096052}}
+  organization={IEEE}
+}
 ```
 
 ## Acknowledgments
